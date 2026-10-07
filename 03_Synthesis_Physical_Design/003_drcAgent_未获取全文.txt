@@ -1,0 +1,8 @@
+﻿drcAgent: A Design Rule Aware LLM Agent for DRC Auto-Fix with Adversarial Reinforcement Learning
+DAC 2026
+
+未找到可直接下载的公开全文，或公开全文服务器拒绝访问；已检索作者主页、公开仓库及出版来源。
+
+来源链接：
+https://63dac.conference-program.com/presentation/?id=RESEARCH2145&sess=sess166
+https://imwangkun.github.io/fullpaper.htm

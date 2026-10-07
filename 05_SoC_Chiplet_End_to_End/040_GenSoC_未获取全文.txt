@@ -1,0 +1,8 @@
+﻿GenSoC: A Multi-Agent-Assisted SoC Generation Methodology Leveraging Open-Source Hardware
+ISLPED 2025
+
+未找到可直接下载的公开全文，或公开全文服务器拒绝访问；已检索作者主页、公开仓库及出版来源。
+
+来源链接：
+https://doi.org/10.1109/ISLPED65674.2025.11261756
+https://ir.pku.edu.cn/handle/20.500.11897/782360

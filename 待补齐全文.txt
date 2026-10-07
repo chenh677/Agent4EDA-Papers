@@ -1,0 +1,49 @@
+﻿待补齐全文（未将错误网页或其他论文保存为 PDF）
+
+003 drcAgent: A Design Rule Aware LLM Agent for DRC Auto-Fix with Adversarial Reinforcement Learning
+DAC 2026
+https://63dac.conference-program.com/presentation/?id=RESEARCH2145&sess=sess166
+https://imwangkun.github.io/fullpaper.htm
+错误：
+
+004 Code, Not Canvas: Multi-Agent Layout Generation Beyond Vision Models
+ASP-DAC 2026
+https://research.nvidia.com/labs/electronic-design-automation/publication/yang2026aspdac/
+https://doi.org/10.1109/ASP-DAC66049.2026.11420765
+https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11420765
+错误：Response is not a PDF
+
+026 ChipModeler: LLM-Aided Reference Model Design for Agile Hardware Verification
+DAC 2026
+https://63dac.conference-program.com/presentation/?id=RESEARCH2319&sess=sess166
+https://zhejianguk.github.io/publications.html
+错误：
+
+035 OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD
+ICLAD 2025
+https://doi.org/10.1109/ICLAD65226.2025.00039
+https://bingyuew.github.io/publication/2025-06-26-iclad
+https://github.com/OpenROAD-Assistant/OpenROAD-Agent
+错误：No accessible public full text found.
+
+040 GenSoC: A Multi-Agent-Assisted SoC Generation Methodology Leveraging Open-Source Hardware
+ISLPED 2025
+https://doi.org/10.1109/ISLPED65674.2025.11261756
+https://ir.pku.edu.cn/handle/20.500.11897/782360
+https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11261756
+错误：Response is not a PDF
+
+044 ParetoPilot: Global Optimization Reasoning on HLS Design Space Exploration with LLMs
+DAC 2026
+https://63dac.conference-program.com/presentation/?id=RESEARCH865&sess=sess168
+https://github.com/GEAR-SEU/ParetoPilot-DAC-26
+错误：
+
+048 Atelier: An Automated Analog Circuit Design Framework via Multiple Large Language Model-Based Agents
+TCAD (accepted 2025)
+https://doi.org/10.1109/TCAD.2025.3573228
+https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.172668168.88938111/v2
+https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.172668168.88938111/v2
+https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.172668168.88938111/v1
+https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=11012698
+错误：HTTP Error 403: Forbidden; HTTP Error 403: Forbidden; Response is not a PDF

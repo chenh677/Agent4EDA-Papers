@@ -1,0 +1,9 @@
+﻿OpenROAD Agent: An Intelligent Self-Correcting Script Generator for OpenROAD
+ICLAD 2025
+
+未找到可直接下载的公开全文，或公开全文服务器拒绝访问；已检索作者主页、公开仓库及出版来源。
+
+来源链接：
+https://doi.org/10.1109/ICLAD65226.2025.00039
+https://bingyuew.github.io/publication/2025-06-26-iclad
+https://github.com/OpenROAD-Assistant/OpenROAD-Agent

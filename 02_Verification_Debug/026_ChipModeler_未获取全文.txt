@@ -1,0 +1,8 @@
+﻿ChipModeler: LLM-Aided Reference Model Design for Agile Hardware Verification
+DAC 2026
+
+未找到可直接下载的公开全文，或公开全文服务器拒绝访问；已检索作者主页、公开仓库及出版来源。
+
+来源链接：
+https://63dac.conference-program.com/presentation/?id=RESEARCH2319&sess=sess166
+https://zhejianguk.github.io/publications.html

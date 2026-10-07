@@ -1,0 +1,18 @@
+{
+  "listed_papers": 65,
+  "downloaded_pdf": 58,
+  "missing_full_text": [
+    "drcAgent",
+    "Code_Not_Canvas",
+    "ChipModeler",
+    "OpenROAD_Agent",
+    "GenSoC",
+    "ParetoPilot",
+    "Atelier"
+  ],
+  "categories": 10,
+  "pdf_pages_total": 668,
+  "total_pdf_bytes": 161302713,
+  "identical_file_duplicates": [],
+  "validation": "PDF signature, readable page tree, first-two-page title matching, SHA256 integrity; originals preserved"
+}

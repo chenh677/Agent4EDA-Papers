@@ -1,0 +1,8 @@
+﻿Code, Not Canvas: Multi-Agent Layout Generation Beyond Vision Models
+ASP-DAC 2026
+
+未找到可直接下载的公开全文，或公开全文服务器拒绝访问；已检索作者主页、公开仓库及出版来源。
+
+来源链接：
+https://research.nvidia.com/labs/electronic-design-automation/publication/yang2026aspdac/
+https://doi.org/10.1109/ASP-DAC66049.2026.11420765

@@ -1,0 +1,8 @@
+﻿Atelier: An Automated Analog Circuit Design Framework via Multiple Large Language Model-Based Agents
+TCAD (accepted 2025)
+
+未找到可直接下载的公开全文，或公开全文服务器拒绝访问；已检索作者主页、公开仓库及出版来源。
+
+来源链接：
+https://doi.org/10.1109/TCAD.2025.3573228
+https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.172668168.88938111/v2
